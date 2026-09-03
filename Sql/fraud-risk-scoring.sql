@@ -1,5 +1,9 @@
 
-
+-- =========================================================
+-- Insurance Claims & Fraud Detection
+-- Fraud Risk Scoring Queries
+-- AWS Athena / SQL
+-- =========================================================
 
 WITH claim_avg AS (
     SELECT

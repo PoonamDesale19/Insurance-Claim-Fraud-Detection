@@ -61,3 +61,13 @@ The Power BI dashboard provides:
 ## Disclaimer
 
 This project is created for analytics and portfolio purposes. High-risk claims represent claims flagged by the project's fraud-risk scoring logic and should not automatically be considered confirmed fraudulent claims.
+
+## Power BI Dashboard
+
+### Insurance Fraud Detection Dashboard
+
+![Insurance Fraud Detection Dashboard](PowerBI/Screenshots/insurance-fraud-claims-dashboard.png)
+
+### High Risk Claim Analysis
+
+![High Risk Claim Analysis](PowerBI/Screenshots/high-risk-claims-analysis.png)
